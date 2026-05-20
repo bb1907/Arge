@@ -528,7 +528,7 @@ const Navigation = ({ onOpenModal }: { onOpenModal: () => void }) => {
             onClick={onOpenModal}
             className="bg-primary text-on-primary px-6 py-2 rounded-lg font-sans text-sm font-semibold hover:opacity-90 transition-opacity"
           >
-            Bize Ulaşın
+            Başvur
           </button>
         </div>
 
@@ -582,7 +582,7 @@ const Navigation = ({ onOpenModal }: { onOpenModal: () => void }) => {
             }}
             className="bg-primary text-on-primary w-full py-3 rounded-lg font-sans font-semibold"
           >
-            Bize Ulaşın
+            Başvur
           </button>
         </motion.div>
       )}
